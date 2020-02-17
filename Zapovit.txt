@@ -8,3 +8,7 @@
 7. bulo vydno bulo chuty,
 8. Як понесе з України
 14. До самого Бога
+<<<<<<< HEAD
+=======
+15. Molytysya... a do togo
+>>>>>>> 7cc53cb59343e4d24a1be057b7059ba2944ce629
